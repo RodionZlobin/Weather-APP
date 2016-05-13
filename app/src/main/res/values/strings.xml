@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="button_1">Weather at home</string>
+    <string name="button_2">Weather in selected city</string>
+    <string name="button_3">5 days forecast</string>
+    <string name="button_4">Special option</string>
+    <string name="actual_weather">Weather at home location today</string>
+    <string name="forecast_weather">Week weather forecast</string>
+    <string name="selected_weather">Weather in selected city</string>
+    <string name="special_option">Your dreampoints</string>
+    <string name="edit_city">please edit city</string>
+    <string name="edit_button">EDIT</string>
+    <string name="edit_city_label">Weather at selected city</string>
+    <string name="temp_min_text">min</string>
+    <string name="temp_max_text">max</string>
+    <string name="temp">Temp:</string>
+    <string name="cloudy_text">Cloudy:</string>
+    <string name="wind_text">Wind:</string>
+    <string name="edit_city_forecast">5 DAYS FORECAST</string>
+    <string name="btn_select_city">SELECT CITY</string>
+</resources>

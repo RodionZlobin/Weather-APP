@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorMediumGreen"
+    android:orientation="vertical"
+    tools:context="se.rodion.weatherforecast.WeekEditCityActivity">
+
+    <EditText
+        android:id="@+id/edit_city_week"
+        android:layout_width="272sp"
+        android:layout_height="50sp"
+        android:layout_gravity="center_horizontal"
+        android:hint="Please enter city"
+        android:textAlignment="center"
+        android:background="@color/colorLightGreen"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+    <Button
+        android:id="@+id/edit_button_week"
+        android:layout_width="272sp"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="@string/btn_select_city"
+        android:textColor="@android:color/white"
+        android:background="@color/colorGreenButton"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/edit_city_week"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/edit_city_week"
+        android:layout_marginTop="10sp" />
+
+</RelativeLayout>

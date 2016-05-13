@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Väderrapport</string>
+    <string name="actual_weather">Väder hemma</string>
+    <string name="button_1">Väder hemma</string>
+    <string name="button_2">Vädret på valda staden</string>
+    <string name="button_3">5 dagar rapport</string>
+    <string name="button_4">Speciell alternativ</string>
+    <string name="edit_button">Edit</string>
+    <string name="edit_city">Edit stad</string>
+    <string name="forecast_weather">5 days rapoort</string>
+    <string name="selected_weather">Vädret på valda staden</string>
+    <string name="special_option">Din drömplats</string>
+</resources>
